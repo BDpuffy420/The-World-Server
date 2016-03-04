@@ -1,0 +1,10 @@
+<h1>Welcome the World Server Alpha 1.1!</h1>
+
+-<i>This server is based off a hybrid of a heavily modified baystation, tg, and paracode.</i>
+<br><br>
+<strong>Forums:</strong> <a href="http://ss13worldserver.com/">http://ss13worldserver.com/</a>
+
+<br><br>
+Can you point all the changes? Keep in mind this is an <b>alpha build</b>, many concept mapping ideas have been fleshed out but nothing is final - there will be a lot of mapping errors, please don't report those (including permission errors) until the beta build. Enjoy your time!
+<br><br>
+<b>Note:</b> Shuttles won't work yet. Pods do.

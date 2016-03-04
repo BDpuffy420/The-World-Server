@@ -1,0 +1,1 @@
+var/ooc_allowed = 1	// used with admin verbs to disable ooc - not a config option apparently

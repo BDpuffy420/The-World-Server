@@ -1,0 +1,1 @@
+var/list/active_turfs_startlist = list()
